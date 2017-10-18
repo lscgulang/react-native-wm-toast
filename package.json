@@ -1,0 +1,15 @@
+{
+  "name": "react-native-wm-toast",
+  "version": "1.0.0",
+  "description": "toast",
+  "main": "ToastForWmAndroid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lsc",
+  "license": "ISC",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/lscgulang/react_native_wm_toast/"
+    }
+}
