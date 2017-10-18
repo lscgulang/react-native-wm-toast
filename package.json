@@ -1,6 +1,6 @@
 {
   "name": "react-native-wm-toast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "toast",
   "main": "ToastForWmAndroid.js",
   "scripts": {
